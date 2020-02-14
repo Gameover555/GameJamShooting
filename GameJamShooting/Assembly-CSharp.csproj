@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="Assets\matui\Bullet_matui.cs" />
     <Compile Include="Assets\matui\Player_matui.cs" />
+    <Compile Include="Assets\matui\effect_matui.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/kyouk/Desktop/Kチームシューティング/GameJamShooting/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
