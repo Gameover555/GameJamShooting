@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":-2.247098445892334,"y":-0.43347275257110598,"z":-4.7350544929504398},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":2.960235595703125,"orthographic":true}
+=======
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":0.15063509345054627,"y":1.268715739250183,"z":-14.232399940490723},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":10.00297737121582,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":true,"pivot":{"x":-1.6740124225616456,"y":-0.33383336663246157,"z":-2.53773832321167},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":3.8041813373565676,"orthographic":true}
+>>>>>>> Orikasa
+>>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c

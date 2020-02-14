@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+<<<<<<< HEAD
+  - Wall
+=======
+  - Bomb
+  - BombBullet
+>>>>>>> Orikasa
   layers:
   - Default
   - TransparentFX
