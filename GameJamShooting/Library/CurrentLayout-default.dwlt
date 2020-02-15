@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 7.2000003
-    y: 50.4
+    x: 16.800001
+    y: 113.6
     width: 1521.6
     height: 766.4
   m_ShowMode: 4
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 680, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 0
-  controlID: 122
+  controlID: 56
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 16
+  controlID: 61
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 17
+  controlID: 62
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -320,8 +320,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 7.2000003
-    y: 514.4
+    x: 16.800001
+    y: 577.60004
     width: 1212
     height: 262
   m_ViewDataDictionary: {fileID: 0}
@@ -338,20 +338,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Orikasa
+    - Assets/Obj
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Orikasa
+  - Assets/Obj
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\Gabur\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GameJamShooting\\GameJamShooting"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 5c340000
-    m_LastClickedID: 13404
-    m_ExpandedIDs: 000000004e34000000ca9a3b
+    m_SelectedIDs: 54340000
+    m_LastClickedID: 13396
+    m_ExpandedIDs: 000000004c34000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004e340000
+    m_ExpandedIDs: 000000004c340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -423,7 +423,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 5}
+      m_ClientGUIView: {fileID: 3}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -456,8 +456,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1220
-    y: 80.8
+    x: 1229.6
+    y: 144
     width: 307
     height: 696
   m_ViewDataDictionary: {fileID: 0}
@@ -494,17 +494,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 7.2000003
-    y: 80.8
+    x: 16.800001
+    y: 144
     width: 299
     height: 413
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 1c380000
-      m_LastClickedID: 14364
-      m_ExpandedIDs: 14f2ffff0cf6ffff28f7ffffacf9fffff6f9ffff46faffffaefaffff3efbffff
+      m_SelectedIDs: 3ceeffff
+      m_LastClickedID: -4548
+      m_ExpandedIDs: 46eeffffe4f5ffffe6f7ffff74faffff6efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -549,8 +549,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 307.2
-    y: 80.8
+    x: 316.80002
+    y: 144
     width: 911
     height: 413
   m_ViewDataDictionary: {fileID: 0}
@@ -564,9 +564,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.7055018, y: 0.5849723, z: -3.2402344}
+    m_Target: {x: 2.0401645, y: -0.96519166, z: -7.140625}
     speed: 2
-    m_Value: {x: -1.7055018, y: 0.5849723, z: -3.2402344}
+    m_Value: {x: 2.0401645, y: -0.96519166, z: -7.140625}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -616,9 +616,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 14.912697
+    m_Target: 17.181282
     speed: 2
-    m_Value: 14.912697
+    m_Value: 17.181282
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -664,8 +664,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 307.2
-    y: 80.8
+    x: 316.80002
+    y: 144
     width: 911
     height: 413
   m_ViewDataDictionary: {fileID: 0}

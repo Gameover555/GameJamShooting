@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="Assets\Orikasa\Bomb.cs" />
     <Compile Include="Assets\Orikasa\BombBullet.cs" />
+    <Compile Include="Assets\Orikasa\BombGenerater.cs" />
     <Compile Include="Assets\Orikasa\ResultScene1P.cs" />
     <Compile Include="Assets\Orikasa\ResultScene2P.cs" />
     <Compile Include="Assets\Orikasa\SinMove.cs" />
