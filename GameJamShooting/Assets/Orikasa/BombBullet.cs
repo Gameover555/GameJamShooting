@@ -5,7 +5,6 @@ using UnityEngine;
 public class BombBullet : MonoBehaviour
 {
     bool bulletFlag = false;
-
     // Start is called before the first frame update
     void Start()
     {
@@ -15,14 +14,15 @@ public class BombBullet : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
+
 
     private void OnTriggerEnter2D(Collider2D col)
     {
         if (col.tag == "Bomb")
         {
-            Destroy(gameObject);
+            Destroy(gameObject, 2.0f);
             bulletFlag = true;
         }
     }

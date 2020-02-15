@@ -1,5 +1,13 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/GameScene.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Scenes/OrikasaTestBomb.unity
+=======
+- path: Assets/Scenes/1PResultScene.unity
+>>>>>>> ba7ba0ddf88bf142905ded4d501f610df90eb05b
+>>>>>>> cc5ddca44286752fd710868034ffddcd12c570f7
   isLoaded: 1
   isActive: 1
   isSubScene: 0
