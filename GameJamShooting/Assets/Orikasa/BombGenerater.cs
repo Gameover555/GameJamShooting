@@ -7,7 +7,7 @@ public class BombGenerater : MonoBehaviour
     public GameObject bomb1;
     float span = 5.0f;
     float delta = 0;
-    int numberOfBombs;
+    public int numberOfBombs;
     [SerializeField] int maxNumOfBombs = 100;
 
     void Start()
