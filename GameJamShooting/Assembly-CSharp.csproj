@@ -67,6 +67,8 @@
     <Compile Include="Assets\Orikasa\ResultScene1P.cs" />
     <Compile Include="Assets\Orikasa\ResultScene2P.cs" />
     <Compile Include="Assets\Orikasa\SinMove.cs" />
+    <Compile Include="Assets\Orikasa\SinMove1P.cs" />
+    <Compile Include="Assets\Orikasa\SinMove2P.cs" />
     <Compile Include="Assets\Orikasa\TitleScene.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\matui\Bullet_matui.cs" />
