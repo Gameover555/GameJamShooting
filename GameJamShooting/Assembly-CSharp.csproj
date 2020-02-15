@@ -62,81 +62,48 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <Compile Include="Assets\Scripts\PlayerController.cs" />
-=======
     <Compile Include="Assets\Orikasa\Bomb.cs" />
     <Compile Include="Assets\Orikasa\BombBullet.cs" />
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
+    <Compile Include="Assets\Scripts\PlayerBullet.cs" />
+    <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\PlayerHP.cs" />
+    <Compile Include="Assets\Scripts\PlayerSpowner.cs" />
+    <Compile Include="Assets\Scripts\StartTimer.cs" />
     <Compile Include="Assets\matui\Bullet_matui.cs" />
     <Compile Include="Assets\matui\Player_matui.cs" />
     <Compile Include="Assets\matui\effect_matui.cs" />
     <Reference Include="Unity.Timeline.Editor">
-<<<<<<< HEAD
-      <HintPath>D:/GO Games/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/GJS/GameJamShooting/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/GO Games/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/GJS/GameJamShooting/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/GO Games/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/GJS/GameJamShooting/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/GO Games/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/GJS/GameJamShooting/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/GO Games/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/GJS/GameJamShooting/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/GO Games/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/GJS/GameJamShooting/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/GO Games/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/GJS/GameJamShooting/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:/GO Games/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>D:/GJS/GameJamShooting/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>D:/GO Games/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>D:/GJS/GameJamShooting/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/GO Games/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/GJS/GameJamShooting/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/GO Games/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-=======
-      <HintPath>C:/Users/Gabur/OneDrive/デスクトップ/ドキュメント/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/Gabur/OneDrive/デスクトップ/ドキュメント/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Gabur/OneDrive/デスクトップ/ドキュメント/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/Gabur/OneDrive/デスクトップ/ドキュメント/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/Gabur/OneDrive/デスクトップ/ドキュメント/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Gabur/OneDrive/デスクトップ/ドキュメント/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/Gabur/OneDrive/デスクトップ/ドキュメント/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>C:/Users/Gabur/OneDrive/デスクトップ/ドキュメント/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>C:/Users/Gabur/OneDrive/デスクトップ/ドキュメント/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Gabur/OneDrive/デスクトップ/ドキュメント/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Gabur/OneDrive/デスクトップ/ドキュメント/GameJamShooting/GameJamShooting/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
+      <HintPath>D:/GJS/GameJamShooting/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
