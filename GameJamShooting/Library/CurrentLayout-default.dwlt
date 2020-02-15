@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 0
 --- !u!114 &2
@@ -42,30 +42,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
     y: 30
     width: 1522
     height: 717
   m_MinSize: {x: 680, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 0
-  controlID: 99
-=======
-    y: 0
-<<<<<<< HEAD
-    width: 1159
-    height: 766
-<<<<<<< HEAD
-  m_MinSize: {x: 875, y: 300}
-=======
-=======
-    width: 1522
-    height: 767
->>>>>>> Orikasa
-  m_MinSize: {x: 875, y: 542}
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-  m_MaxSize: {x: 10000, y: 10000}
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
+  controlID: 54
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,7 +117,6 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
     y: 434
     width: 1213
     height: 283
@@ -146,28 +128,6 @@ MonoBehaviour:
   - {fileID: 18}
   m_Selected: 0
   m_LastSelected: 0
-=======
-    y: 30
-<<<<<<< HEAD
-    width: 1159
-    height: 716
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14003, y: 14042}
-  vertical: 1
-<<<<<<< HEAD
-  controlID: 1751
-=======
-  controlID: 1707
-=======
-    width: 1522
-    height: 717
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14003, y: 14042}
-  vertical: 1
-  controlID: 3996
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -188,32 +148,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
     width: 1522
     height: 767
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
-=======
-<<<<<<< HEAD
-    width: 1159
-    height: 716
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14003, y: 14042}
-  vertical: 0
-<<<<<<< HEAD
-  controlID: 1752
-=======
-  controlID: 1708
-=======
-    width: 1522
-    height: 717
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14003, y: 14042}
-  vertical: 0
-  controlID: 3997
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -231,37 +169,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
     width: 1522
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 
-=======
-<<<<<<< HEAD
-    width: 1007
-=======
-<<<<<<< HEAD
-    width: 865
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-    height: 716
-  m_MinSize: {x: 402, y: 492}
-  m_MaxSize: {x: 10001, y: 14042}
-  vertical: 1
-<<<<<<< HEAD
-  controlID: 1710
-=======
-  controlID: 1637
-=======
-    width: 1136
-    height: 717
-  m_MinSize: {x: 402, y: 492}
-  m_MaxSize: {x: 10001, y: 14042}
-  vertical: 1
-  controlID: 3998
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -278,38 +190,11 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
     y: 747
     width: 1522
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-=======
-    y: 0
-<<<<<<< HEAD
-    width: 1007
-=======
-<<<<<<< HEAD
-    width: 865
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-    height: 408
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
-  vertical: 0
-<<<<<<< HEAD
-  controlID: 1667
-=======
-  controlID: 1638
-=======
-    width: 1136
-    height: 409
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
-  vertical: 0
-  controlID: 3999
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -329,36 +214,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
     width: 1213
     height: 717
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 100
-=======
-<<<<<<< HEAD
-    width: 250
-    height: 408
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-=======
-<<<<<<< HEAD
-    width: 246
-    height: 408
-=======
-    width: 281
-    height: 409
->>>>>>> Orikasa
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-  m_ActualView: {fileID: 14}
-  m_Panes:
-  - {fileID: 14}
-  m_Selected: 0
-  m_LastSelected: 0
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
+  controlID: 55
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -368,102 +229,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
-<<<<<<< HEAD
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
-=======
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SceneView
-  m_EditorClassIdentifier: 
-  m_Children: []
-  m_Position:
-    serializedVersion: 2
-<<<<<<< HEAD
-    x: 250
-    y: 0
-    width: 757
-    height: 408
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-=======
-    x: 246
-    y: 0
-<<<<<<< HEAD
-    width: 619
-    height: 408
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
-=======
-    width: 855
-    height: 409
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-  m_ActualView: {fileID: 15}
-  m_Panes:
-  - {fileID: 15}
-  - {fileID: 13}
-  - {fileID: 16}
-  m_Selected: 0
-  m_LastSelected: 1
---- !u!114 &11
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ProjectBrowser
-  m_EditorClassIdentifier: 
-  m_Children: []
-  m_Position:
-    serializedVersion: 2
-    x: 0
-<<<<<<< HEAD
-    y: 408
-<<<<<<< HEAD
-    width: 1007
-=======
-    width: 865
-=======
-    y: 409
-    width: 1136
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-    height: 308
-  m_MinSize: {x: 231, y: 271}
-  m_MaxSize: {x: 10001, y: 10021}
-  m_ActualView: {fileID: 17}
-  m_Panes:
-  - {fileID: 17}
-  - {fileID: 18}
-  - {fileID: 19}
-  - {fileID: 20}
-  m_Selected: 0
-  m_LastSelected: 1
---- !u!114 &12
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: InspectorWindow
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 4}
   - {fileID: 11}
   m_Position:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 0
     y: 0
     width: 1213
@@ -471,37 +244,8 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 101
+  controlID: 56
 --- !u!114 &11
-=======
-<<<<<<< HEAD
-    x: 1007
-    y: 0
-    width: 515
-    height: 716
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
-=======
-    x: 865
-    y: 0
-<<<<<<< HEAD
-    width: 294
-    height: 716
-=======
-    width: 386
-    height: 717
->>>>>>> Orikasa
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-  m_ActualView: {fileID: 21}
-  m_Panes:
-  - {fileID: 21}
-  - {fileID: 22}
-  - {fileID: 23}
-  m_Selected: 0
-  m_LastSelected: 2
---- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -510,242 +254,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
-  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Game
-    m_Image: {fileID: 257045534191678443, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-<<<<<<< HEAD
-    x: 251
-    y: 19
-    width: 755
-=======
-    x: 247
-    y: 19
-<<<<<<< HEAD
-    width: 617
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-    height: 387
-=======
-    width: 853
-    height: 388
->>>>>>> Orikasa
-  m_ViewDataDictionary: {fileID: 0}
-  m_SerializedViewsNames: []
-  m_SerializedViewsValues: []
-  m_PlayModeViewName: GameView
-  m_ShowGizmos: 0
-  m_TargetDisplay: 0
-  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-<<<<<<< HEAD
-  m_TargetSize: {x: 651, y: 366}
-=======
-<<<<<<< HEAD
-  m_TargetSize: {x: 617, y: 347}
-=======
-  m_TargetSize: {x: 853, y: 367}
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-  m_TextureFilterMode: 0
-  m_TextureHideFlags: 61
-  m_RenderIMGUI: 1
-  m_MaximizeOnPlay: 1
-  m_VSyncEnabled: 0
-  m_Gizmos: 0
-  m_Stats: 0
-  m_SelectedSizes: 05000000000000000800000000000000000000000000000000000000000000000000000000000000
-  m_ZoomArea:
-    m_HRangeLocked: 0
-    m_VRangeLocked: 0
-    hZoomLockedByDefault: 0
-    vZoomLockedByDefault: 0
-<<<<<<< HEAD
-    m_HBaseRangeMin: -260.4
-    m_HBaseRangeMax: 260.4
-    m_VBaseRangeMin: -146.40001
-    m_VBaseRangeMax: 146.40001
-=======
-<<<<<<< HEAD
-    m_HBaseRangeMin: -463.6
-    m_HBaseRangeMax: 463.6
-    m_VBaseRangeMin: -260.80002
-    m_VBaseRangeMax: 260.80002
-=======
-    m_HBaseRangeMin: -341.2
-    m_HBaseRangeMax: 341.2
-    m_VBaseRangeMin: -146.8
-    m_VBaseRangeMax: 146.8
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-    m_HAllowExceedBaseRangeMin: 1
-    m_HAllowExceedBaseRangeMax: 1
-    m_VAllowExceedBaseRangeMin: 1
-    m_VAllowExceedBaseRangeMax: 1
-    m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
-    m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
-    m_EnableSliderZoomHorizontal: 0
-    m_EnableSliderZoomVertical: 0
-    m_UniformScale: 1
-    m_UpDirection: 1
-    m_DrawArea:
-      serializedVersion: 2
-      x: 0
-      y: 21
-<<<<<<< HEAD
-      width: 755
-      height: 366
-    m_Scale: {x: 1.8602936, y: 1.8602936}
-    m_Translation: {x: 419.1927, y: 164.60394}
-=======
-<<<<<<< HEAD
-      width: 1159
-      height: 676
-    m_Scale: {x: 1.092727, y: 1.0927268}
-    m_Translation: {x: 579.50006, y: 338}
-=======
-      width: 853
-      height: 367
-    m_Scale: {x: 1.4257605, y: 1.4257605}
-    m_Translation: {x: 425.0206, y: 175.93704}
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-    m_MarginLeft: 0
-    m_MarginRight: 0
-    m_MarginTop: 0
-    m_MarginBottom: 0
-    m_LastShownAreaInsideMargins:
-      serializedVersion: 2
-<<<<<<< HEAD
-      x: -225.33684
-      y: -88.48277
-      width: 405.8499
-      height: 196.74313
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 943.75, y: 483.75}
-=======
-<<<<<<< HEAD
-      x: -530.32465
-      y: -309.31793
-      width: 1060.6493
-      height: 618.63586
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1448.75, y: 871.25}
-=======
-      x: -298.10098
-      y: -123.398735
-      width: 598.2772
-      height: 257.4065
-    m_MinimalGUI: 1
-  m_defaultScale: 1
-  m_LastWindowPixelSize: {x: 1066.25, y: 485}
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-  m_ClearInEditMode: 1
-  m_NoCameraWarning: 1
-  m_LowResolutionForAspectRatios: 01000000000100000100
-  m_XRRenderMode: 0
-  m_RenderTexture: {fileID: 0}
---- !u!114 &14
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Hierarchy
-    m_Image: {fileID: -9000905672528348964, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-<<<<<<< HEAD
-    x: 50.4
-    y: 81.6
-<<<<<<< HEAD
-    width: 249
-=======
-    width: 245
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-    height: 387
-=======
-    x: 7.2000003
-    y: 80.8
-    width: 280
-    height: 388
->>>>>>> Orikasa
-  m_ViewDataDictionary: {fileID: 0}
-  m_SceneHierarchy:
-    m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-      m_SelectedIDs: a8f5ffff
-      m_LastClickedID: -2648
-      m_ExpandedIDs: e6f5ffff62f7ffff70f7ffff7ef7ffff92f7ffffa0f7ffffaef7ffffbcf7ffff24f8ffff46f8ffffc6faffff
-=======
-<<<<<<< HEAD
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 6efbffff
-=======
-      m_SelectedIDs: 10e6ffff
-      m_LastClickedID: -6640
-      m_ExpandedIDs: 0ef6ffffe4f8ffffecf8fffffcf8ffffd2faffff
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-      m_RenameOverlay:
-        m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
-        m_EditFieldRect:
-          serializedVersion: 2
-          x: 0
-          y: 0
-          width: 0
-          height: 0
-        m_UserData: 0
-        m_IsWaitingForDelay: 0
-        m_IsRenaming: 0
-        m_OriginalEventType: 11
-        m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 9}
-      m_SearchString: 
-    m_ExpandedScenes: []
-    m_CurrenRootInstanceID: 0
-    m_LockTracker:
-      m_IsLocked: 0
-    m_CurrentSortingName: TransformSorting
-  m_WindowGUID: 39c42ece205f58b49a1a32e091b8eef3
---- !u!114 &15
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-<<<<<<< HEAD
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: SceneView
   m_EditorClassIdentifier: 
@@ -766,152 +274,6 @@ MonoBehaviour:
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &12
-=======
-  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Scene
-    m_Image: {fileID: -131512000283675692, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-<<<<<<< HEAD
-    x: 257.6
-    y: 81.6
-    width: 755
-=======
-<<<<<<< HEAD
-    x: 296.80002
-    y: 81.6
-    width: 617
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-    height: 387
-=======
-    x: 288
-    y: 80.8
-    width: 853
-    height: 388
->>>>>>> Orikasa
-  m_ViewDataDictionary: {fileID: 0}
-  m_ShowContextualTools: 1
-  m_WindowGUID: 4e3e5af083cf7b94ba8c30eccb4677dd
-  m_Gizmos: 1
-  m_SceneIsLit: 1
-  m_SceneLighting: 1
-  m_2DMode: 1
-  m_isRotationLocked: 0
-  m_PlayAudio: 0
-  m_AudioPlay: 0
-  m_Position:
-<<<<<<< HEAD
-    m_Target: {x: -2.2470984, y: -0.43347275, z: -4.7350545}
-    speed: 2
-    m_Value: {x: -2.2470984, y: -0.43347275, z: -4.7350545}
-=======
-<<<<<<< HEAD
-    m_Target: {x: 0.1506351, y: 1.2687157, z: -14.2324}
-    speed: 2
-    m_Value: {x: 0.1506351, y: 1.2687157, z: -14.2324}
-=======
-    m_Target: {x: -1.6740124, y: -0.33383337, z: -2.5377383}
-    speed: 2
-    m_Value: {x: -1.6740124, y: -0.33383337, z: -2.5377383}
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-  m_RenderMode: 0
-  m_CameraMode:
-    drawMode: 0
-    name: Shaded
-    section: Shading Mode
-  m_ValidateTrueMetals: 0
-  m_DoValidateTrueMetals: 0
-  m_ExposureSliderValue: 0
-  m_ExposureSliderMax: 10
-  m_SceneViewState:
-    showFog: 1
-    showMaterialUpdate: 0
-    showSkybox: 1
-    showFlares: 1
-    showImageEffects: 1
-    showParticleSystems: 1
-  m_Grid:
-    xGrid:
-      m_Fade:
-        m_Target: 0
-        speed: 2
-        m_Value: 0
-      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
-      m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
-    yGrid:
-      m_Fade:
-        m_Target: 0
-        speed: 2
-        m_Value: 0
-      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
-      m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
-    zGrid:
-      m_Fade:
-        m_Target: 1
-        speed: 2
-        m_Value: 1
-      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
-      m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 1, y: 1}
-    m_ShowGrid: 1
-    m_GridAxis: 1
-    m_gridOpacity: 0.5
-  m_Rotation:
-    m_Target: {x: 0, y: 0, z: 0, w: 1}
-    speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 1}
-  m_Size:
-<<<<<<< HEAD
-    m_Target: 2.9602356
-    speed: 2
-    m_Value: 2.9602356
-=======
-<<<<<<< HEAD
-    m_Target: 10.002977
-    speed: 2
-    m_Value: 10.002977
-=======
-    m_Target: 3.8041813
-    speed: 2
-    m_Value: 3.8041813
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-  m_Ortho:
-    m_Target: 1
-    speed: 2
-    m_Value: 1
-  m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.49748743
-    m_SpeedMin: 0.01
-    m_SpeedMax: 2
-    m_EasingEnabled: 1
-    m_EasingDuration: 0.4
-    m_AccelerationEnabled: 1
-    m_FieldOfView: 90
-    m_NearClip: 0.03
-    m_FarClip: 10000
-    m_DynamicClip: 1
-    m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
-  m_LastSceneViewOrtho: 0
-  m_ReplacementShader: {fileID: 0}
-  m_ReplacementString: 
-  m_SceneVisActive: 1
-  m_LastLockedObject: {fileID: 0}
-  m_ViewIsLockedToObject: 0
---- !u!114 &16
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -958,21 +320,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 7.2000003
     y: 514.4
     width: 1212
     height: 262
-=======
-    x: 50.4
-    y: 489.6
-<<<<<<< HEAD
-    width: 1006
-=======
-    width: 864
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-    height: 287
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -987,25 +338,6 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-    - Assets/Scripts
-  m_ViewMode: 1
-  m_StartGridSize: 87
-  m_LastFolders:
-  - Assets/Scripts
-  m_LastFoldersGridSize: 87
-  m_LastProjectPath: D:\GO Games\GameJamShooting\GameJamShooting
-=======
-<<<<<<< HEAD
-    - Assets/Obj/Bullet_effect
-  m_ViewMode: 1
-  m_StartGridSize: 87
-  m_LastFolders:
-  - Assets/Obj/Bullet_effect
-=======
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
     - Assets/Orikasa
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -1013,48 +345,29 @@ MonoBehaviour:
   - Assets/Orikasa
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\Gabur\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GameJamShooting\\GameJamShooting"
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-    m_SelectedIDs: 0e360000
-    m_LastClickedID: 13838
-    m_ExpandedIDs: 000000000036000000ca9a3b
-=======
-<<<<<<< HEAD
-    m_SelectedIDs: ac340000
-    m_LastClickedID: 13484
-    m_ExpandedIDs: 000000009a34000000ca9a3b
-=======
-<<<<<<< HEAD
-    m_SelectedIDs: 26360000
-    m_LastClickedID: 13862
-    m_ExpandedIDs: 000000001c3600002436000000ca9a3b
-=======
-    m_SelectedIDs: 6e360000
-    m_LastClickedID: 13934
-    m_ExpandedIDs: 000000007034000000ca9a3b
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
+    m_SelectedIDs: 38340000
+    m_LastClickedID: 13368
+    m_ExpandedIDs: 000000002834000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Scenes
-      m_OriginalName: Scenes
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 13840
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 5}
+      m_ClientGUIView: {fileID: 0}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -1066,19 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< HEAD
-    m_ExpandedIDs: 0000000000360000
-=======
-<<<<<<< HEAD
-    m_ExpandedIDs: 000000009a34000000ca9a3b
-=======
-<<<<<<< HEAD
-    m_ExpandedIDs: 000000001c36000000ca9a3b
-=======
-    m_ExpandedIDs: 000000007034000000ca9a3b
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
+    m_ExpandedIDs: 0000000028340000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1198,13 +499,12 @@ MonoBehaviour:
     width: 299
     height: 413
   m_ViewDataDictionary: {fileID: 0}
-<<<<<<< HEAD
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: c0eaffff96ebffffaeebffffc6ebffff36edffffb6edffffbeedffff6ceeffffb4eeffffc2eeffffe4eeffff04efffff96f0ffffc2f1ffffdef1ffffecf1ffff16f2ffff06f5ffff38f5ffff52f5ffff94f5ffff46f6ffff52f7ffffe0f7fffff2f7ffff00f8ffff14f8ffff36f8ffffc2f8ffff
+      m_SelectedIDs: 58faffff
+      m_LastClickedID: -1448
+      m_ExpandedIDs: 70faffff54fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1227,22 +527,8 @@ MonoBehaviour:
     m_LockTracker:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
-  m_WindowGUID: 982a5686e9b097345a96b1cc322ac86d
+  m_WindowGUID: 6083b82b1c617ba4dbf4d8eb37219275
 --- !u!114 &16
-=======
-  m_LockTracker:
-    m_IsLocked: 0
-<<<<<<< HEAD
-  m_LastSelectedObjectID: -2648
-=======
-<<<<<<< HEAD
-  m_LastSelectedObjectID: -1574
-=======
-  m_LastSelectedObjectID: -6640
->>>>>>> Orikasa
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
---- !u!114 &20
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1269,7 +555,7 @@ MonoBehaviour:
     height: 413
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
-  m_WindowGUID: c8ed92e516622ac46b2f4dad3e242d21
+  m_WindowGUID: 17d88859c1fc88a41aa823730b4d0446
   m_Gizmos: 1
   m_SceneIsLit: 1
   m_SceneLighting: 1
@@ -1278,9 +564,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: -4.1862206, y: 4.558895, z: -1.8672557}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: -4.1862206, y: 4.558895, z: -1.8672557}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1330,9 +616,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 21.817814
     speed: 2
-    m_Value: 10
+    m_Value: 21.817814
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1378,35 +664,18 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 307.2
-=======
-<<<<<<< HEAD
-    x: 1014.4
-    y: 81.6
-    width: 513
-=======
-<<<<<<< HEAD
-    x: 915.2
-    y: 81.6
-    width: 292
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
-    height: 695
-=======
-    x: 1143.2001
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
     y: 80.8
     width: 911
     height: 413
   m_ViewDataDictionary: {fileID: 0}
-<<<<<<< HEAD
   m_SerializedViewsNames: []
   m_SerializedViewsValues: []
   m_PlayModeViewName: GameView
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 911, y: 392}
+  m_TargetSize: {x: 697, y: 392}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -1414,14 +683,14 @@ MonoBehaviour:
   m_VSyncEnabled: 0
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 05000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -364.4
-    m_HBaseRangeMax: 364.4
+    m_HBaseRangeMin: -278.80002
+    m_HBaseRangeMax: 278.80002
     m_VBaseRangeMin: -156.8
     m_VBaseRangeMax: 156.8
     m_HAllowExceedBaseRangeMin: 1
@@ -1464,25 +733,6 @@ MonoBehaviour:
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
 --- !u!114 &18
-=======
-  m_OpenAddComponentMenu: 0
-  m_ObjectsLockedBeforeSerialization: []
-  m_InstanceIDsLockedBeforeSerialization: 
-  m_LockTracker:
-    m_IsLocked: 0
-  m_PreviewResizer:
-    m_CachedPref: 151
-    m_ControlHash: -371814159
-    m_PrefName: Preview_InspectorPreview
-  m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: -1
-<<<<<<< HEAD
-  m_LastVerticalScrollValue: 725
-=======
-  m_LastVerticalScrollValue: 260
->>>>>>> 68b2ad1f75fa0ddf9be6b44a89870e4d9ce6104c
---- !u!114 &22
->>>>>>> ade44534cb71fcb09de5d0006712105d568659ce
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1508,33 +758,3 @@ MonoBehaviour:
     width: 1366
     height: 308
   m_ViewDataDictionary: {fileID: 0}
---- !u!114 &23
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 13854, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 300, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Project Settings
-    m_Image: {fileID: -6304849327172165113, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 1014.4
-    y: 81.6
-    width: 513
-    height: 695
-  m_ViewDataDictionary: {fileID: 0}
-  m_PosLeft: {x: 0, y: 0}
-  m_PosRight: {x: 0, y: 120}
-  m_Scope: 1
-  m_SplitterFlex: 0
